@@ -1,4 +1,5 @@
 #Car Price Prediction
+
 Welcome to the Car Price Prediction project repository! This project aims to predict the prices of used cars using various machine learning algorithms. The predictive models implemented include Logistic Regression, Decision Tree, and Random Forest Regression. Additionally, a Streamlit web application has been developed to allow users to predict car prices in real-time.
 
 Overview
