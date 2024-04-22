@@ -15,9 +15,9 @@ Implements pipelines to streamline data preprocessing and model training.
 Develops a Streamlit web application for real-time car price prediction.
 
 Dependencies:
-Python 3.x
-scikit-learn
-pandas
-numpy
-Streamlit
+Python 3.x,
+scikit-learn,
+pandas,
+numpy,
+Streamlit.
 
